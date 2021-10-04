@@ -16,7 +16,7 @@ return `
 ┃ 🌐https://suaurl.com/f31687
 ┃
 ┃ 🪀𝐆𝐫𝐮𝐩𝐨:
-┃ 🌐https://suaurl.com/feb29e
+┃ 🌐https://suaurl.com/Brizas-grupo
 ┃
 ┃ 📹𝐘𝐨𝐮𝐭𝐮𝐛𝐞:
 ┃ 🌐https://suaurl.com/c12fe7
@@ -243,10 +243,22 @@ return `
 ┃ ${p}togif (resp video)
 ┃ ${p}resizevid (lag) (alt) (resp vid)
 ┣━━━━━🎨 𝙇𝙊𝙂𝙊𝙎 🎨━━━━╮
-┃ ${p}missionpassed (t1) | (t2)
 ┃ ${p}nulis (txt)
-┃ ${p}watercolor (txt)
-┃ ${p}neonlogo (txt)
+┃ ${p}undgrass (txt)
+┃ ${p}love (txt)
+┃ ${p}coffe (txt)
+┃ ${p}coffe2 (txt)
+┃ ${p}cemitery (txt)
+┃ ${p}gradient (txt)
+┃ ${p}glowing (txt)
+┃ ${p}shinerainbow (txt)
+┃ ${p}graffiti (txt)
+┃ ${p}neonpink (txt)
+┃ ${p}neonrainbow (txt)
+┃ ${p}neongreen (txt)
+┃ ${p}neonblue (txt)
+┃ ${p}neonyellow (txt)
+┃ ${p}neonsky (txt)
 ┃ ${p}flowerlogo (txt)
 ┃ ${p}matrixlogo (txt)
 ┃ ${p}thunderlogo (txt)
@@ -255,7 +267,6 @@ return `
 ┃ ${p}narutologo (txt)
 ┃ ${p}phlogo (t1) | (t2)
 ┃ ${p}mineconquista (t1) | (t2)
-┃ ${p}shadow (txt)
 ┃ ${p}glitch (t1) | (t2)
 ┃ ${p}ravetxt (t1) | (t2)
 ┃ ${p}woodtxt (t1) | (t2)
@@ -443,7 +454,6 @@ return `
 ┃ ${p}instastalk (name)
 ┃ ${p}githubstalk (name)
 ┃ ${p}tiktokstalk (name)
-┃ ${p}ffstalk (id ff)
 ┣━━━😳 𝙄𝙉𝙏𝙀𝙍𝘼𝘾̧𝘼̃𝙊 😳━━━╮
 ┃ ${p}vsf
 ┃ ${p}botfofo
