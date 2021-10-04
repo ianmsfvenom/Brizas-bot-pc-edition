@@ -43,7 +43,6 @@
     "moment-timezone": "^0.5.32",
     "morsify": "^2.4.0",
     "multistream": "^2.1.0",
-    "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
     "node-open-geocoder": "^4.0.1",
     "nodejs-currency-converter": "^1.0.2",
@@ -52,8 +51,7 @@
     "request": "^2.81.0",
     "reverse-image-search-google": "^1.0.3",
     "spinnies": "^0.5.1",
-    "translatte": "^2.5.8",
-    "youtube-sr": "^4.0.3"
+    "translatte": "^2.5.8"
   },
   "repository": {
     "type": "git",
