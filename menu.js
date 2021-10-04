@@ -229,6 +229,8 @@ return `
 ┃ ${p}tttme
 ┃ ${p}tttrank
 ┃ ${p}ttthelp
+┃ ${p}delttc
+┃ ${p}tictactoe
 ┣━━━━━🎥 𝙑𝙄́𝘿𝙀𝙊 🎥━━━━╮
 ┃ ${p}bold (txt)
 ┃ ${p}poly (txt)
