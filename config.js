@@ -44,8 +44,8 @@ const byemsgimg = (numero, groupname) => {
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO BRIZAS-BOT COM 434 COMANDOS, BATERIA: ${battery}`
+const menumsgimg = (numero, groupname, bat) => {
+    return `MENU DO BRIZAS-BOT COM 434 COMANDOS, BATERIA %${bat}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir

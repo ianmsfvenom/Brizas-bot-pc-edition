@@ -44,6 +44,19 @@ return `
 ┃ ${p}blacklist
 ┃ ${p}criador
 ┃ ${p}toimg (leg, resp img)
+┣━━━━✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨━━━━╮
+┃ ${p}stiker (leg, resp img)
+┃ ${p}sticker (leg, resp img)
+┃ ${p}csticker (leg, resp img)
+┃ ${p}cstiker (leg, resp img)
+┃ ${p}fstiker (leg, resp img)
+┃ ${p}fsticker (leg, resp img)
+┃ ${p}nstiker (pack) (author)
+┃ ${p}nsticker (pack) (author)
+┃ ${p}nfstiker (pack) (author)
+┃ ${p}nfsticker (pack) (author)
+┃ ${p}nfsticker (pack) (author)
+┃ ${p}rename (pack) (author)
 ┣━━━━😎 𝘾𝙍𝙄𝘼𝘿𝙊𝙍 😎━━━━╮
 ┃ ${p}blockcmd (cmd sem prefix)
 ┃ ${p}unblockcmd (cmd sem prefix)
@@ -55,7 +68,7 @@ return `
 ┃ ${p}infinityblock (1 or 0)
 ┃ ${p}antiligar (1 or 0)
 ┃ ${p}addpalavra (txt)
-┃ ${p}removepalavra (txt)
+┃ ${p}rmpalavra (txt)
 ┃ ${p}limparchat (txt)
 ┃ ${p}ataque (txt)
 ┃ ${p}divulgar (txt)
@@ -205,18 +218,6 @@ return `
 ┃ ${p}beatiful
 ┃ ${p}affect
 ┃ ${p}ad
-┣━━━━✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨━━━━╮
-┃ ${p}stiker (leg, resp img)
-┃ ${p}sticker (leg, resp img)
-┃ ${p}csticker (leg, resp img)
-┃ ${p}cstiker (leg, resp img)
-┃ ${p}fstiker (leg, resp img)
-┃ ${p}fsticker (leg, resp img)
-┃ ${p}nstiker (pack) (author)
-┃ ${p}nsticker (pack) (author)
-┃ ${p}nfstiker (pack) (author)
-┃ ${p}nfsticker (pack) (author)
-┃ ${p}macaco
 ┣━━💥 𝙍𝙊𝙇𝙀𝙏𝘼 𝙍𝙐𝙎𝙎𝘼 💥━━╮
 ┃ ${p}helproleta
 ┃ ${p}roletarussahard
